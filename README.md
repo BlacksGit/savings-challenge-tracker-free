@@ -32,6 +32,6 @@ Move the money to a separate savings account the day you get paid. Pick the chal
 
 ## Want the printable tracker?
 
-The **Savings Challenge Tracker** has the 52-week, reverse 52-week, $1,000, $5 bill, no-spend day and sinking fund trackers: https://spectre5.gumroad.com/l/PLACEHOLDER ($5)
+The **Savings Challenge Tracker** has the 52-week, reverse 52-week, $1,000, $5 bill, no-spend day and sinking fund trackers: https://payhip.com/b/3oEAU ($5)
 
 More guides: https://patreon.com/123black
