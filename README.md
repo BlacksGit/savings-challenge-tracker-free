@@ -38,4 +38,4 @@ More guides: https://patreon.com/123black
 
 ## Free calculator
 
-[50/30/20 budget check](https://blacksgit.github.io/budget-503020/): runs in your browser, nothing to install.
+[Savings challenge maker](https://blacksgit.github.io/savings-challenge/): a 52-week style plan for your own goal and date, with weeks to tick off. Also the [50/30/20 budget check](https://blacksgit.github.io/budget-503020/).
